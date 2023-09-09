@@ -1,0 +1,20 @@
+On the top layer the small condansators work fine. So as the regulators.
+It seems that at the bottom Layer the PCB just burnt due to wrong using
+or poor designing i guess. The parts in the area thats burnt does not
+work. And also some of the Mosfets seems to short.
+--------------------------
+Working Parts
+- 35volt 1000 Micro farad capacitors.
+- 2 mosfets that are in the right
+- inductor
+- Transformator
+--------------------------
+Broken Parts
+
+- 400V 150 micro Farad capacitors
+- Bridge Rectifier
+- Small Bypass capacitors
+- Resistors
+--------------------------
+
+I salvaged the 35 Volt capacitors.
