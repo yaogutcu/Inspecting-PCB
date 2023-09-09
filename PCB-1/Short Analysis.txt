@@ -1,6 +1,6 @@
-On the top layer the small condansators work fine. So as the regulators.
+On the top layer the small capacitors work fine. So as the regulators.
 It seems that at the bottom Layer the PCB just burnt due to wrong using
-or poor designing i guess. The parts in the area thats burnt does not
+or poor designing i guess. The parts in the area that are burnt does not
 work. And also some of the Mosfets seems to short.
 --------------------------
 Working Parts
